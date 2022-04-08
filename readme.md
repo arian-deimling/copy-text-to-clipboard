@@ -11,10 +11,7 @@
 
 ## Install
 
-1. ```
-here.is(someSampleCode);
-```
-
+1. <code>here.is(someSampleCode);</code>
 ```
 $ npm install copy-text-to-clipboard
 ```
