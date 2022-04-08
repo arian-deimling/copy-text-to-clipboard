@@ -11,7 +11,7 @@
 
 ## Install
 
-```
+1. ```
 here.is(someSampleCode);
 ```
 
