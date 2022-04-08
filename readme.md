@@ -12,6 +12,10 @@
 ## Install
 
 ```
+here.is(someSampleCode);
+```
+
+```
 $ npm install copy-text-to-clipboard
 ```
 
